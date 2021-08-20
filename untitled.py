@@ -65,5 +65,5 @@ def process(url, html_source):
 
 
 
-
+url = "https://www.chittorgarh.com/report/ipo-in-india-list-main-board-sme/82/"
 print(process(url, open("tes.html").read()))
